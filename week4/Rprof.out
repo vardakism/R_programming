@@ -1,0 +1,4 @@
+sample.interval=20000
+".Call" "lm.fit" "lm" 
+".Call" "lm.fit" "lm" 
+".Call" "lm.fit" "lm" 
